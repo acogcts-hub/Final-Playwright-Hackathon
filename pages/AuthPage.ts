@@ -23,6 +23,8 @@ export class AuthPage {
 
     async getCredentials() {
         return {
+            // td: has-text("Email") means select td which has visible text "Email"
+            // +td means select the <td> that comes immediately after the matched <td>
             email: await this.page.locator('td:has-text("Email")+td').innerText(),
             password: await this.page.locator('td:has-text("Password")+td').innerText()
         };

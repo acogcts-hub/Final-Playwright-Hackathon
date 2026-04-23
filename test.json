@@ -17,5 +17,9 @@
     },
     "bookOrder": {
         "orderSuccess" : "Thank you for your order!!!"
+    },
+    "bug": {
+        "summary": "Login page not reloaded properly",
+        "description": "When I enter the username and password the login page is not loading properly."
     }
 }
