@@ -9,6 +9,10 @@ import { CreditCardPage } from "../pages/CreditCardPage";
 //test.json contains all the static values as key value pairs
 import Data from "../test.json";
 
+
+// run Allure Report: allure generate allure-results -o allure-report --clean
+// opne Allure report: allure open allure-report
+
 test.describe("Sharelane Tests", () => {
 
     // This before each is going to open the sharelane website
