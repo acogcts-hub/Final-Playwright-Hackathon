@@ -1,15 +1,15 @@
 {
     "happyPath": {
         "zip": "123456",
-        "firstName": "sweety",
-        "lastName": "kumari",
-        "email": "s@gmail.com",
+        "firstName": "Ayanendubikas",
+        "lastName": "Mandal",
+        "email": "abm@gmail.com",
         "password": "1234567",
         "successMessage": "Account is created!"
     },
     "sadPath": {
         "zip": "123456",
-        "firstName": "swee567",
+        "firstName": "abm567",
         "lastName": "12345",
         "email": "sQe",
         "password": "12345",

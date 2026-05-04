@@ -9,7 +9,7 @@ import { CreditCardPage } from "../pages/CreditCardPage";
 //test.json contains all the static values as key value pairs
 import Data from "../test.json";
 
-
+//Remove-Item -Recurse -Force allure-results
 // run Allure Report: allure generate allure-results -o allure-report --clean
 // opne Allure report: allure open allure-report
 
